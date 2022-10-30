@@ -1,4 +1,4 @@
-#👋 Hi,  Meet @Bostigger
+##👋 Hi,  Meet @Bostigger
 - 
 - 👀 I’m interested in anything web
 - 💞️ I’m looking to collaborate on challenging projects
@@ -11,7 +11,7 @@
  
 </div>
   
-<div style="display: inline_block"><br>
+<div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
   <img align="center" alt="Rafa-Go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
