@@ -1,8 +1,7 @@
-##👋 Hi,  Meet @Bostigger
-- 
-- 👀 I’m interested in anything web
-- 💞️ I’m looking to collaborate on challenging projects
+<div align="center"> <h1> 👋 Hi,  Meet @Bostigger </h1>
 
+🌱 I’m interested in anything web <br>
+👯 I’m looking to collaborate on challenging projects</div>
 
 
 <div align="center">
