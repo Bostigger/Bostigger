@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bostigger
 - 👀 I’m interested in anything web
-- 🌱 I’m currently learning ✨Laravel ✨Go ✨React
+- 🌱 I’m currently learning ✨Laravel ✨Go ✨[React]|[Node]
 - 💞️ I’m looking to collaborate on challenging projects
 - 📫 How to reach me <tricksteck@gmail.com/>
 
