@@ -4,11 +4,7 @@
 👯 I’m looking to collaborate on challenging projects</div>
 
 
-<div align="center">
-  <a href="https://github.com/bostigger">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bostigger&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
- 
-</div>
+
 
   
 <div align="center" style="display: inline_block"><br>
