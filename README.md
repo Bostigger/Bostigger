@@ -9,6 +9,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bostigger&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  
 </div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bostigger&show_icons=true&count_private=true" alt="rdegbe" /> 
+</p>
   
 <div align="center" style="display: inline_block"><br>
   <img align="center" alt="Rafa-Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain.svg">
