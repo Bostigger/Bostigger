@@ -1,7 +1,7 @@
 <div align="center"> <h1> 👋 Hi,  Meet @Bostigger </h1>
 
 🌱 I’m interested in anything web<br>
-👯 I’m looking to collaborate on challenging projects</div>
+👯 I’m  currently looking to collaborate on challenging projects</div>
 
 
 
