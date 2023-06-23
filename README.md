@@ -1,6 +1,6 @@
 <div align="center"> <h1> 👋 Hi,  Meet @Bostigger </h1>
 
-🌱 I’m interested in anything web<br>
+🌱 I’m interested in anything software<br>
 👯 I’m  currently looking to collaborate on challenging projects</div>
 
 
