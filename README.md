@@ -4,9 +4,6 @@
 
 🌱 I’m interested in anything software<br>
 👯 I’m  currently looking to collaborate on challenging projects</div>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bostigger&show_icons=true&count_private=true" alt="bostigger" /> 
-</p>
 
 
 
