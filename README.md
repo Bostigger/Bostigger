@@ -95,9 +95,9 @@
 <div>
 
 
-  <a href = "mailto:tricksteck@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/peter-blay-9bb2a8197/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-
+ <div align="center">
+  <a href="https://github.com/bostigger/bostigger">
+    <img src="https://komarev.com/ghpvc/?username=bostigger&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS" height="25" alt="profile views" />
+  </a>
+</div>
 </div>
