@@ -77,9 +77,7 @@
   
   <!-- SPOTIFY NOW PLAYING -->
   <br>
-  <div align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31crb6hbv5dbatfmjzb5wotqpnuy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" width="70%" alt="Spotify Now Playing" />
-  </div>
+  
 </details>
 
 <!-- COOL AUTOMATIC FOOTER -->
