@@ -63,8 +63,35 @@
     </table>
   </div>
 
-  ##
+  <div align="center">
+    <a href="mailto:tricksteck@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+    </a>
+    <a href="https://www.linkedin.com/in/peter-blay-9bb2a8197/">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+    </a>
+    <a href="https://github.com/bostigger">
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge" />
+    </a>
+  </div>
+  
+  <!-- SPOTIFY NOW PLAYING -->
+  <br>
+  <div align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=31crb6hbv5dbatfmjzb5wotqpnuy&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true" width="70%" alt="Spotify Now Playing" />
+  </div>
+</details>
 
+<!-- COOL AUTOMATIC FOOTER -->
+<div align="center">
+  <img height="120" src="https://user-images.githubusercontent.com/123340286/230758941-271f8d45-9538-4688-b45d-e9d3ef834aaf.gif" />
+  <br><br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=150&section=footer&animation=fadeIn" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=150&section=footer&animation=fadeIn" />
+    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,30&height=150&section=footer&animation=fadeIn" />
+  </picture>
+</div>
 <div>
 
 
